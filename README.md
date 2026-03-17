@@ -65,15 +65,15 @@ These tools create a complete DevOps pipeline that supports reliable application
    Scalable infrastructure management using Kubernetes
 
 📂 Project Architecture
-Developer
-   ↓
-Git Repository
-   ↓
-Jenkins CI/CD Pipeline
-   ↓
-Docker Containers
-   ↓
-Kubernetes Cluster
+Developer <br>
+   ↓<br>
+Git Repository<br>
+   ↓<br>
+Jenkins CI/CD Pipeline<br>
+   ↓<br>
+Docker Containers<br>
+   ↓<br>
+Kubernetes Cluster<br>
  
  👨‍💻 Group Members
   

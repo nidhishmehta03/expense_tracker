@@ -50,12 +50,12 @@ These tools create a complete DevOps pipeline that supports reliable application
 
 🛠 Tech Stack
    
-   Category	Tools & Technologies
-   Version Control	Git
-   Containerization	Docker
-   Continuous Integration	Jenkins
-   Infrastructure Automation	Acciona (IaC Tool)
-   Container Orchestration	Kubernetes (K8s)
+   Category	Tools & Technologies<br>
+   Version Control	Git<br>
+   Containerization	Docker<br>
+   Continuous Integration	Jenkins<br>
+   Infrastructure Automation	Acciona (IaC Tool)<br>
+   Container Orchestration	Kubernetes (K8s)<br>
 
 ✨ Key Features
    
@@ -77,11 +77,11 @@ Kubernetes Cluster<br>
  
  👨‍💻 Group Members
   
-Mahima Patidar	EN22CS301569
-Moin Husain	EN22CS301612
-Nidhish Mehta	EN22CS301642
-Nitisha Kushwah	EN22CS301664
-Nikhil Rathore	EN22CS301650
+Mahima Patidar	EN22CS301569<br>
+Moin Husain	EN22CS301612<br>
+Nidhish Mehta	EN22CS301642<br>
+Nitisha Kushwah	EN22CS301664<br>
+Nikhil Rathore	EN22CS301650<br>
 
 📌 Conclusion
 

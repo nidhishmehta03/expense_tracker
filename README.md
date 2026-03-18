@@ -2,13 +2,13 @@
 
 🚀 Automating Financial Infrastructure using Infrastructure as Code (IaC) and DevOps
 
-📌 Project Information
-   Field	Details
-   Project Title	IaC-Provisioning-for-Finance-System
-   Group Name	D6-GROUP12
-   Project No	DO-23
+📌 Project Information<br>
+   Field	Details<br>
+   Project Title	IaC-Provisioning-for-Finance-System<br>
+   Group Name	D6-GROUP12<br>
+   Project No	DO-23<br>
 
-📖 Project Description
+📖 Project Description<br>
 The IaC-Provisioning-for-Finance-System project focuses on automating the deployment and management of infrastructure required for financial applications using Infrastructure as Code (IaC).
 
 The system ensures:
@@ -21,25 +21,25 @@ The system ensures:
 
 By integrating modern DevOps tools, the project reduces manual configuration, minimizes errors, and accelerates the deployment process for finance-based systems.
 
-🧭 Project Overview
+🧭 Project Overview<br>
 
-This project demonstrates how Infrastructure as Code can be used to build, configure, and deploy a finance system environment efficiently.
+This project demonstrates how Infrastructure as Code can be used to build, configure, and deploy a finance system environment efficiently.<br>
 
-The workflow automates:
+The workflow automates:<br>
 
-   Infrastructure provisioning
-   Application containerization
-   Continuous Integration
-   Continuous Deployment
+   Infrastructure provisioning<br>
+   Application containerization<br>
+   Continuous Integration<br>
+   Continuous Deployment<br>
    
-Integrated DevOps Tools
+Integrated DevOps Tools<br>
 
-   Git (Version Control)
-   Docker (Containerization)
-   Jenkins (CI/CD Pipeline)
-   Kubernetes (Container Orchestration)
+   Git (Version Control)<br>
+   Docker (Containerization)<br>
+   Jenkins (CI/CD Pipeline)<br>
+   Kubernetes (Container Orchestration)<br>
 
-These tools create a complete DevOps pipeline that supports reliable application delivery.
+These tools create a complete DevOps pipeline that supports reliable application delivery.<br>
 
 🎯 Objectives
 

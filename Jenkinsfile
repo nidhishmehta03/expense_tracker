@@ -9,15 +9,15 @@ pipeline {
             }
         }
 
-        stage('Build') {
+        stage('Build Docker Image') {
             steps {
-                echo "Building project"
+                sh 'docker build -t finance-tracker .'
             }
         }
 
-        stage('Deploy') {
+        stage('Run Container') {
             steps {
-                echo "Deploying project"
+                sh 'docker run -d -p 8080:8080 finance-tracker'
             }
         }
 

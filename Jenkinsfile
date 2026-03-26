@@ -5,19 +5,19 @@ pipeline {
 
         stage('Clone Repository') {
             steps {
-                git 'https://github.com/nidhishmehta03/expense_tracker.git'
+                git branch: 'main', url: 'https://github.com/nidhishmehta03/expense_tracker.git'
             }
         }
 
         stage('Build') {
             steps {
-                echo "Project build started"
+                echo "Building project"
             }
         }
 
         stage('Deploy') {
             steps {
-                echo "Deployment step running"
+                echo "Deploying project"
             }
         }
 
